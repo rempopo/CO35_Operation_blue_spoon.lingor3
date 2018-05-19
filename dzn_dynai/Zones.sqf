@@ -11,9 +11,9 @@
 			6, /* Groups quantity */
 			/* Units */
 			[
-				["O_Soldier_F", [], "kit_random_panama"]
-				,["O_Soldier_F", [], "kit_random_panama"]
-				,["O_Soldier_F", [], "kit_random_panama"]
+				["O_Soldier_F", [], "kit_panama_random"]
+				,["O_Soldier_F", [], "kit_panama_random"]
+				,["O_Soldier_F", [], "kit_panama_random"]
 				
 			]
 		]
@@ -21,14 +21,14 @@
 			1, /* Groups quantity */
 			/* Units */
 			[
-				["O_Soldier_F", ["indoors"], "kit_random_panama"]
-				,["O_Soldier_F", ["indoors"], "kit_random_panama"]
-				,["O_Soldier_F", ["indoors"], "kit_random_panama"]
-				,["O_Soldier_F", ["indoors"], "kit_random_panama"]
-				,["O_Soldier_F", ["indoors"], "kit_random_panama"]
-				,["O_Soldier_F", ["indoors"], "kit_random_panama"]
-				,["O_Soldier_F", ["indoors"], "kit_random_panama"]
-				,["O_Soldier_F", ["indoors"], "kit_random_panama"]
+				["O_Soldier_F", ["indoors"], "kit_panama_random"]
+				,["O_Soldier_F", ["indoors"], "kit_panama_random"]
+				,["O_Soldier_F", ["indoors"], "kit_panama_random"]
+				,["O_Soldier_F", ["indoors"], "kit_panama_random"]
+				,["O_Soldier_F", ["indoors"], "kit_panama_random"]
+				,["O_Soldier_F", ["indoors"], "kit_panama_random"]
+				,["O_Soldier_F", ["indoors"], "kit_panama_random"]
+				,["O_Soldier_F", ["indoors"], "kit_panama_random"]
 			]
 		]
 	]
@@ -45,19 +45,19 @@
 			3, /* Groups quantity */
 			/* Units */
 			[
-				["O_Soldier_F", [], "kit_random_panama"]
-				,["O_Soldier_F", [], "kit_random_panama"]
-				,["O_Soldier_F", [], "kit_random_panama"]
+				["O_Soldier_F", [], "kit_panama_random"]
+				,["O_Soldier_F", [], "kit_panama_random"]
+				,["O_Soldier_F", [], "kit_panama_random"]
 			]
 		]
 		,[
 			1, /* Groups quantity */
 			/* Units */
 			[
-				["O_Soldier_F", ["indoors"], "kit_random_panama"]
-				,["O_Soldier_F", ["indoors"], "kit_random_panama"]
-				,["O_Soldier_F", ["indoors"], "kit_random_panama"]
-				,["O_Soldier_F", ["indoors"], "kit_random_panama"]
+				["O_Soldier_F", ["indoors"], "kit_panama_random"]
+				,["O_Soldier_F", ["indoors"], "kit_panama_random"]
+				,["O_Soldier_F", ["indoors"], "kit_panama_random"]
+				,["O_Soldier_F", ["indoors"], "kit_panama_random"]
 			]
 		]
 	]
@@ -74,9 +74,9 @@
 			3, /* Groups quantity */
 			/* Units */
 			[
-				["O_Soldier_F", [], "kit_random_panama"]
-				,["O_Soldier_F", [], "kit_random_panama"]
-				,["O_Soldier_F", [], "kit_random_panama"]
+				["O_Soldier_F", [], "kit_panama_random"]
+				,["O_Soldier_F", [], "kit_panama_random"]
+				,["O_Soldier_F", [], "kit_panama_random"]
 			]
 		]
 	]
