@@ -5,8 +5,7 @@ US invasion of Panama
 
 ### Version: 1A
 
-Changelog: 
--
+### Changelog: 
 
 # NOT APPROVED
 | Reviewer | Result |
