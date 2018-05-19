@@ -10,5 +10,5 @@ US invasion of Panama
 # NOT APPROVED
 | Reviewer | Result |
 | ------------ | ------------- |
-| - | - |
+| lim | APPROVED |
 | - | - |

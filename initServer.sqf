@@ -13,7 +13,7 @@ MissionDate = [
 		case 3: { round(random 24) };
 	}
 	, switch ("par_daytime" call BIS_fnc_getParamValue) do {
-		case 2: { selectRandom [0,5,10,15,20,25] }
+		case 2: { selectRandom [0,5,10,15,20,25] };
 		default { selectRandom [0,10,15,20,25,30,40,45,50] };
 	}
 ];
