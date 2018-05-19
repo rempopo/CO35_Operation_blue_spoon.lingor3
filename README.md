@@ -1,5 +1,5 @@
 # CO35_Operation_blue_spoon.lingor3
-Краткое описание миссии			
+US invasion of Panama
 
 <img src='https://github.com/rempopo/CO35_Operation_blue_spoon.lingor3/blob/master/overview.jpg?raw=true' />
 
@@ -11,5 +11,5 @@ Changelog:
 # NOT APPROVED
 Reviewer | Result 
 ------------ | -------------
- |  
- |  
+- | -
+- | -
