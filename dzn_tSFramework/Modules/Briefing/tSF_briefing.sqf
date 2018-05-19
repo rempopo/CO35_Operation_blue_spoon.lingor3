@@ -65,7 +65,7 @@ TOPIC("V. Сигналы:")
 "PL NET 50
 <br />SUP NET 51
 <br />1'1 - SR CH 1
-<br />1'2 - SR CH 2"
+<br />1'2 - SR CH 2
 <br />1'3 - SR CH 3"
 END
 
