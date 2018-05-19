@@ -181,7 +181,7 @@ kit_specus_r = [
 	["<HANDGUN WEAPON >>  ","rhsusf_weap_m1911a1","rhsusf_mag_7x45acp_MHP",["","","",""]],
 	["<ASSIGNED ITEMS >>  ", ASSIGNED_ITEMS],
 	["<UNIFORM ITEMS >> ",[]],
-	["<VEST ITEMS >> ",[["30Rnd_556x45_Stanag_green",8],["HandGrenade",2],["HANDGUN MAG",1],UNIFORM_ITEMS]],
+	["<VEST ITEMS >> ",[["30Rnd_556x45_Stanag_green",8],["HandGrenade",2],UNIFORM_ITEMS]],
 	["<BACKPACK ITEMS >> ",[["CUP_100Rnd_TE4_LRT4_Green_Tracer_762x51_Belt_M",3]]]
 ];
 
