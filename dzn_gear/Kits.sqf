@@ -206,7 +206,7 @@ kit_crewus_r = [
 #define panama_w_r ["hlc_rifle_SLR","rhs_weap_akmn","rhs_weap_akms","rhs_weap_akm","RH_M16a1"]
 #define panama_a_r ["hlc_10Rnd_762x51_B_fal","rhs_30Rnd_762x39mm","rhs_30Rnd_762x39mm","rhs_30Rnd_762x39mm","20Rnd_556x45_Stanag"]
 
-kit_random_panama = [
+kit_panama_random = [
     "kit_panama_r","kit_panama_r","kit_panama_r"
     ,"kit_panama_mg"
 	,"kit_panama_gr"
